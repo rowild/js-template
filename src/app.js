@@ -12,9 +12,9 @@ const viewer = new GaussianSplats3D.Viewer({
 });
 viewer.init();
 
-// let path = '/models/burg_gallenstein_converted_for_threejs.splat';
+let path = '/models/burg_gallenstein_converted_for_threejs.splat';
 // let path = '/models/burg_seebenstein.splat';
-let path = '/models/burg_gallenstein_edited_with_super_splash.ply';
+// let path = '/models/burg_gallenstein_edited_with_super_splash.ply';
 
 // console.log('path =', path);
 
